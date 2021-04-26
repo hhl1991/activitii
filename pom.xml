@@ -21,7 +21,7 @@
         <batik-codec.version>1.8</batik-codec.version>
         <activiti-json-converter.version>6.0.0</activiti-json-converter.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <mysql.version>5.1.47</mysql.version>
     </properties>
 
